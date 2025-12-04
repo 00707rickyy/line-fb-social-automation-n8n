@@ -89,7 +89,7 @@ Key steps inside the n8n workflow:
      - Keep the data for debugging
 ## 📌 Workflow Diagram
 
-![Workflow Diagram](workflow-diagram.png)
+![Workflow Diagram](WorkflowDiagram.png)
 
 ---
 
