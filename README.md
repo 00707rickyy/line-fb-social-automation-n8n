@@ -45,7 +45,7 @@ This shows how to combine **messaging apps, social media, automation tools and A
 
 ## 📌 Workflow Diagram
 
-![Workflow Diagram](workflow-diagram.png)
+![Workflow Diagram](WorkflowDiagram.png)
 
 ---
 
