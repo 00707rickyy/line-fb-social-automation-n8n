@@ -87,6 +87,9 @@ Key steps inside the n8n workflow:
      - Log the error
      - Send a friendly error message back to LINE
      - Keep the data for debugging
+## 📌 Workflow Diagram
+
+![Workflow Diagram](workflow-diagram.png)
 
 ---
 
